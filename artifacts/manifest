@@ -1,0 +1,16 @@
+[
+    {
+        "name": "RADOLED-23.05.15",
+        "branch": "23.02.04",
+        "description": "### 2023 May 15",
+        "url": "https://github.com/reeltwo/DomeControlFirmware/releases/download/23.05.15/RADOLED.bin",
+        "zipfile": "https://github.com/reeltwo/DomeControlFirmware/releases/download/23.05.15/RADOLED.zip",
+        "release_details": {
+            "version": "23.05.15",
+            "idf": "v4.3",
+            "platform": "RoamADomeOLED",
+            "branch": "23.05.15"
+        },
+        "manifest_name": "RADOLED-23.05.15-manifest.json"
+    }
+]
