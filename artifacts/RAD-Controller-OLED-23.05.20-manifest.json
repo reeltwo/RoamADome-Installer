@@ -1,6 +1,6 @@
 {
-    "name": "RADOLED",
-    "version": "23.05.15",
+    "name": "RoamADomeOLED",
+    "version": "23.05.20",
     "new_install_prompt_erase": true,
     "new_install_improv_wait_time": 0,
     "builds": [
@@ -8,15 +8,15 @@
             "chipFamily": "ESP32-S3",
             "parts": [
                 {
-                    "path": "RADOLED-960ad3d.bin",
+                    "path": "RAD-Controller-OLED-62f5409.bin",
                     "offset": 0
                 },
                 {
-                    "path": "RADOLED-960ad3d.spiffs.bin",
+                    "path": "RAD-Controller-OLED-62f5409.spiffs.bin",
                     "offset": 13172736
                 }
             ]
         }
     ],
-    "manifest_name": "RADOLED-23.05.15-manifest.json"
+    "manifest_name": "RAD-Controller-OLED-23.05.20-manifest.json"
 }
