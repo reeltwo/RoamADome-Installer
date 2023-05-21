@@ -1,0 +1,18 @@
+{
+    "name": "RoamADomeBlank",
+    "version": "23.05.20",
+    "new_install_prompt_erase": true,
+    "new_install_improv_wait_time": 0,
+    "builds": [
+        {
+            "chipFamily": "ESP32-S3",
+            "parts": [
+                {
+                    "path": "RAD-Blank.bin",
+                    "offset": 0
+                }
+            ]
+        }
+    ],
+    "manifest_name": "RAD-Blank-23.05.20-manifest.json"
+}
