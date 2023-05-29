@@ -8,11 +8,11 @@
             "chipFamily": "ESP32-S3",
             "parts": [
                 {
-                    "path": "RAD-Controller-OLED-62f5409.bin",
+                    "path": "RAD-Controller-OLED-7c7ef9a.bin",
                     "offset": 0
                 },
                 {
-                    "path": "RAD-Controller-OLED-62f5409.spiffs.bin",
+                    "path": "RAD-Controller-OLED-7c7ef9a.spiffs.bin",
                     "offset": 13172736
                 }
             ]
