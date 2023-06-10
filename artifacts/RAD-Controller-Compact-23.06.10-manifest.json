@@ -1,6 +1,6 @@
 {
     "name": "RoamADomeCompact",
-    "version": "23.06.08",
+    "version": "23.06.10",
     "new_install_prompt_erase": true,
     "new_install_improv_wait_time": 0,
     "builds": [
@@ -8,11 +8,11 @@
             "chipFamily": "ESP32",
             "parts": [
                 {
-                    "path": "RAD-Controller-Compact-fe9ba0a.bin",
+                    "path": "RAD-Controller-Compact-2b07e71.bin",
                     "offset": 0
                 }
             ]
         }
     ],
-    "manifest_name": "RAD-Controller-Compact-23.06.08-manifest.json"
+    "manifest_name": "RAD-Controller-Compact-23.06.10-manifest.json"
 }

@@ -1,31 +1,31 @@
 [
     {
-        "name": "RAD-Controller-OLED-23.05.20",
-        "branch": "23.05.20",
-        "description": "### 2023 May 20",
-        "url": "https://github.com/reeltwo/DomeControlFirmware/releases/download/23.05.20/RAD-Controller-OLED.bin",
-        "zipfile": "https://github.com/reeltwo/DomeControlFirmware/releases/download/23.05.20/RAD-Controller-OLED.zip",
+        "name": "RAD-Controller-OLED-23.06.10",
+        "branch": "23.06.10",
+        "description": "### 2023 June 10",
+        "url": "https://github.com/reeltwo/DomeControlFirmware/releases/download/23.06.10/RAD-Controller-OLED.bin",
+        "zipfile": "https://github.com/reeltwo/DomeControlFirmware/releases/download/23.06.10/RAD-Controller-OLED.zip",
         "release_details": {
-            "version": "23.05.20",
+            "version": "23.06.10",
             "idf": "v4.3",
             "platform": "RoamADomeOLED",
-            "branch": "23.05.20"
+            "branch": "23.06.10"
         },
-        "manifest_name": "RAD-Controller-OLED-23.05.20-manifest.json"
+        "manifest_name": "RAD-Controller-OLED-23.06.10-manifest.json"
     },
     {
-        "name": "RAD-Controller-Compact-23.06.08",
-        "branch": "23.06.08",
-        "description": "### 2023 June 8",
-        "url": "https://github.com/reeltwo/DomeControlFirmware/releases/download/23.06.08/RAD-Controller-Compact.bin",
-        "zipfile": "https://github.com/reeltwo/DomeControlFirmware/releases/download/23.06.08/RAD-Controller-Compact.zip",
+        "name": "RAD-Controller-Compact-23.06.10",
+        "branch": "23.06.10",
+        "description": "### 2023 June 10",
+        "url": "https://github.com/reeltwo/DomeControlFirmware/releases/download/23.06.10/RAD-Controller-Compact.bin",
+        "zipfile": "https://github.com/reeltwo/DomeControlFirmware/releases/download/23.06.10/RAD-Controller-Compact.zip",
         "release_details": {
-            "version": "23.06.08",
+            "version": "23.06.10",
             "idf": "v4.3",
             "platform": "RoamADomeCompact",
-            "branch": "23.06.08"
+            "branch": "23.06.10"
         },
-        "manifest_name": "RAD-Controller-Compact-23.06.08-manifest.json"
+        "manifest_name": "RAD-Controller-Compact-23.06.10-manifest.json"
     },
     {
         "name": "RAD-SensorRing-23.05.20",

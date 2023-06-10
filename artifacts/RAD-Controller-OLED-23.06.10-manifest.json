@@ -1,6 +1,6 @@
 {
     "name": "RoamADomeOLED",
-    "version": "23.05.20",
+    "version": "23.06.10",
     "new_install_prompt_erase": true,
     "new_install_improv_wait_time": 0,
     "builds": [
@@ -8,15 +8,15 @@
             "chipFamily": "ESP32-S3",
             "parts": [
                 {
-                    "path": "RAD-Controller-OLED-7c7ef9a.bin",
+                    "path": "RAD-Controller-OLED-2b07e71.bin",
                     "offset": 0
                 },
                 {
-                    "path": "RAD-Controller-OLED-7c7ef9a.spiffs.bin",
+                    "path": "RAD-Controller-OLED-2b07e71.spiffs.bin",
                     "offset": 13172736
                 }
             ]
         }
     ],
-    "manifest_name": "RAD-Controller-OLED-23.05.20-manifest.json"
+    "manifest_name": "RAD-Controller-OLED-23.06.10-manifest.json"
 }
